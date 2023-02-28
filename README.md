@@ -13,3 +13,4 @@ learning objectives for lesson:
 - easy to share projects and collaborate on projects
 - version control
 - have backups of projects and data
+- practicing with commits
